@@ -9,7 +9,7 @@ Add the plugin to auto generate classes at compile time.
       <artifactId>mybatiscodegen-maven-plugin</artifactId>
       <version>1.0.0</version>
       <configuration>
-        <inputFile>C:/Users/Cosenz/Desktop/a/mapper/ContrattoMapper.xml</inputFile>
+        <inputFile>mapper/ContrattoMapper.xml</inputFile>
   		</configuration>
 	    <executions>
 	      <execution>
